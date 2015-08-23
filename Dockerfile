@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine
 MAINTAINER George Dernikos <geoder101@gmail.com>
 
 ENV DOCKER_CONTAINER=1
